@@ -1,11 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './Home';
+import Navbar from './Navbar';
+import AboutUs from './AboutUs';
+import Services from './Services';
+import Contact from './Contact';
 
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline ">
-      Hello world!
-    </h1>
+    <>
+      <Home />
+      <AboutUs />
+      <Services />
+      <Contact />
+      <Navbar />
+    </>
   )
 }
 
