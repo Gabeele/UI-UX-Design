@@ -27,8 +27,10 @@ This workshop is designed to help you gain a better understanding of user interf
 To get started with this workshop, follow these steps to set up the project:
 
 1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/your-repo.git
+   ```
     2. **Install Dependencies:**
    ```bash
    npm install
@@ -38,7 +40,7 @@ To get started with this workshop, follow these steps to set up the project:
     npm start
     ```
 4. **Open the Application:**
-5. Open the application in your browser at `http://localhost:3000`.
+    Open the application in your browser at `http://localhost:3000`.
 
 ## Important Note
 
